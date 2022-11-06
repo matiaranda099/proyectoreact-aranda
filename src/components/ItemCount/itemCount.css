@@ -1,0 +1,11 @@
+.count{
+    width: fit-content;
+    background-color: blueviolet;
+    margin: auto;
+    padding: 15px;
+    border-radius: 50px;
+}
+.count button{
+    padding: 10px;
+    border-radius: 17px;
+}

@@ -1,0 +1,16 @@
+.product{
+    display: block;
+    width: 300px;
+    
+}
+.product p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    
+}
+
+.product img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
